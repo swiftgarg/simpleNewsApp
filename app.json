@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hitoriNewsAppe",
-    "slug": "hitoriNewsApp",
+    "name": "simpleNativeNewsApp",
+    "slug": "simpleNativeNewsApp",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
